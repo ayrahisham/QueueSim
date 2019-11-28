@@ -1,7 +1,0 @@
-check for customer arrival time
-push them to queue.
-check for any empty servers then push them to the servers
-check for any serving time = 0 then push to 2nd queue
-check for any empty servers then push them to 2nd servers
-check for any sec servers time = 0 then remove;
-do while minute ++;
